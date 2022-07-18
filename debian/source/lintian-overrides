@@ -1,0 +1,4 @@
+python-coverage source: no-debian-changes
+python-coverage source: source-contains-prebuilt-windows-binary
+python-coverage source: source-is-missing
+python-coverage source: source-package-encodes-python-version
