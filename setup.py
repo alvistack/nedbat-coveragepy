@@ -104,7 +104,7 @@ setup_args = dict(
 
     extras_require={
         # Enable pyproject.toml support.
-        'toml': ['tomli; python_full_version<="3.11.0a6"'],
+        'toml': ['tomli; python_version<="3.11.0"'],
     },
 
     # We need to get HTML assets from our htmlfiles directory.
