@@ -1,0 +1,5 @@
+python-coverage (100:7.4.3-1) UNRELEASED; urgency=medium
+
+  * https://github.com/nedbat/coveragepy/releases/tag/7.4.3
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Sat, 24 Feb 2024 11:11:52 +0800
