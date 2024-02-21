@@ -54,3 +54,4 @@ tmp
 .DS_Store
 
 !.github
+.pybuild/
