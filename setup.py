@@ -193,7 +193,7 @@ setup_args = dict(
     },
     extras_require={
         # Enable pyproject.toml support.
-        "toml": ['tomli; python_full_version<="3.11.0a6"'],
+        "toml": ['tomli; python_version<="3.11.0"'],
     },
     cmdclass={
         "build_ext": ve_build_ext,
