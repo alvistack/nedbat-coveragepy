@@ -1,0 +1,4 @@
+python3-coverage: copyright-without-copyright-notice
+python3-coverage: initial-upload-closes-no-bugs
+python3-coverage: no-manual-page
+python3-coverage: zero-byte-file-in-doc-directory
